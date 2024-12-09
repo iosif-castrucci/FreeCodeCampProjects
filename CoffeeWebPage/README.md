@@ -1,7 +1,9 @@
-How you can visualize my first project: 
+In this section, I learned the best practices for creating a very basic html/css structure. In this first codebase you can find a menu web page. I learned what does it mean <section> / <article> / class / id and more skill to write in the right way html5 file and css.
 
-1. Download index.html and styles.css files and save in a new folder. 
+run code tutorial:
 
-2. Right click on index.html file and open with browser.
+Download index.html and styles.css files and save in a new folder.
 
-3. thanks! enjoy it! :D
+Right click on index.html file and open with browser.
+
+thanks! enjoy it! :D
